@@ -57,9 +57,9 @@ This project analyzes Apple's stock market trends using data visualization and a
 
 ## 📬 Contact
 For any queries or suggestions, feel free to connect:
-- **LinkedIn**: [Abhishek Mahadev Raut](https://www.linkedin.com/in/abhishekraut1224/)
+- **LinkedIn**: [Abhishek Mahadev Raut](https://www.linkedin.com/in/abhishek-raut-215191249/)
 - **GitHub**: [abhishekraut1224](https://github.com/abhishekraut1224)
-- **Mail**: (abhiraut1224@gmail.com)
+- **Mail**: abhiraut1224@gmail.com
 
 ---
 ⭐ If you found this project useful, consider giving it a **star** on GitHub!
